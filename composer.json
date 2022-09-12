@@ -1,5 +1,5 @@
 {
-    "name": "chartisan/php",
+    "name": "flexmind-software/chartisan-php",
     "description": "Chartisan's PHP backend",
     "license": "MIT",
     "type": "library",
